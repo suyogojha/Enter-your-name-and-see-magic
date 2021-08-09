@@ -1,0 +1,25 @@
+/* Created by Jonathan Pizarra */
+
+body{
+    margin:0px;
+}
+#txt{
+    font-size:9px;
+    font-family:sans-serif;
+}
+#container{
+    border:1px solid transparent ;
+    height:100px;
+    position:absolute ;
+       top:100px;
+}
+
+p{
+    width:10px;
+    height:10px;
+    border:1px solid black;
+    border-radius:3px;
+    position:absolute ;
+    background: #124555 ;
+}
+
